@@ -1,4 +1,4 @@
-<div class="mx-auto my-4 mx-4 max-w-full">
+<div class="my-4 mx-4 max-w-full">
     <h2 class="mb-4 text-xl">Products</h2>
 
     @if (session()->has('message'))

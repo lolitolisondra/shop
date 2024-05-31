@@ -13,7 +13,7 @@
                 </div>
                 <div class="mb-4">
                     <label for="price" class="block text-sm font-medium text-gray-700">Price</label>
-                    <input type="text" wire:model="price" class="mt-1 p-2 block w-full rounded border-gray-300 shadow-sm">
+                    <input type="number" wire:model="price" class="mt-1 p-2 block w-full rounded border-gray-300 shadow-sm">
                     @error('price') <span class="text-red-500">{{ $message }}</span> @enderror
                 </div>
                 <div class="mb-4">
