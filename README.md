@@ -18,11 +18,10 @@ cd shop
 composer install
 npm install
 ```
-#### Update .env file
+#### Create .env file
 add database credentials
 
-In the
- cmd and enter the code below
+In the cmd and enter the code below
 
 ```
 php artisan migrate --seed
