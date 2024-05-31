@@ -7,15 +7,6 @@ Shop is an e-commerce application using Laravel 11, Livewire 3.5 and Tailwind CS
 ### Clone the project
 Open cmd and enter the code below
 ```bash
-# Shop
-
-Shop is an e-commerce application using Laravel 11, Livewire 3.5 and Tailwind CSS.
-
-## Installation
-
-### Clone the project
-Open cmd and enter the code below
-```bash
 git clone https://github.com/lolitolisondra/shop.git
 ```
 ### Setup
